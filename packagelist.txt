@@ -1,0 +1,26 @@
+7-Zip
+Adobe Air
+Adobe Acrobat Reader DC
+Adobe Flash Player
+Beyond Compare
+CDBurnerXP
+Dia Diagram Editor
+Firefox
+FreeMind
+The GIMP
+Google Chrome
+InkScape
+Java Runtime Environment 32-bit
+Java Runtime Environment 64-bit
+KeePass
+Visual Studio Code
+Notepad
+Paint.NET
+PuTTY
+Python
+TeamViewer
+VLC Media Player 32-bit
+VLC Media Player 64-bit
+VirtualBox
+VMWare Workstation Pro
+WinSCP
